@@ -1,0 +1,10 @@
+[09-May-2017 08:58:11 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/eyesoft2/public_html/eschool/application/modules/welcome/controllers/Welcome.php on line 4
+[09-May-2017 09:53:13 UTC] PHP Fatal error:  Call to undefined method MY_Loader::_ci_object_to_array() in /home/eyesoft2/public_html/eschool/application/third_party/MX/Loader.php on line 300
+[09-May-2017 09:55:43 UTC] PHP Fatal error:  Call to undefined method MY_Loader::_ci_object_to_array() in /home/eyesoft2/public_html/eschool/application/third_party/MX/Loader.php on line 300
+[09-May-2017 09:58:50 UTC] PHP Fatal error:  Call to undefined method MY_Loader::_ci_object_to_array() in /home/eyesoft2/public_html/eschool/application/third_party/MX/Loader.php on line 300
+[09-May-2017 10:05:59 UTC] PHP Fatal error:  Call to undefined method MY_Loader::_ci_object_to_array() in /home/eyesoft2/public_html/eschool/application/third_party/MX/Loader.php on line 300
+[09-May-2017 10:08:01 UTC] PHP Fatal error:  Call to undefined method MY_Loader::_ci_object_to_array() in /home/eyesoft2/public_html/eschool/application/third_party/MX/Loader.php on line 300
+[09-May-2017 10:18:09 UTC] PHP Fatal error:  Call to undefined method MY_Loader::_ci_object_to_array() in /home/eyesoft2/public_html/eschool/application/third_party/MX/Loader.php on line 300
+[09-May-2017 10:18:23 UTC] PHP Fatal error:  Call to undefined method MY_Loader::_ci_object_to_array() in /home/eyesoft2/public_html/eschool/application/third_party/MX/Loader.php on line 300
+[09-May-2017 15:58:41 Asia/Karachi] PHP Fatal error:  Call to undefined method MY_Loader::_ci_object_to_array() in /home/eyesoft2/public_html/eschool/application/third_party/MX/Loader.php on line 300
+[05-Jul-2017 11:06:48 UTC] PHP Parse error:  syntax error, unexpected ''date'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/eyesoft2/public_html/eschool/application/modules/staff/controllers/Staff.php on line 693
